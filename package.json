@@ -1,24 +1,24 @@
 {
   "name": "octokit-webhooks",
+  "description": "Testing @octokit/webhooks for bot excellence.",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
+  "bugs": {
+    "url": "https://github.com/pdehaan/octokit-webhooks/issues"
   },
+  "dependencies": {
+    "@octokit/webhooks": "^7.4.0",
+    "dotenv": "^8.2.0"
+  },
+  "homepage": "https://github.com/pdehaan/octokit-webhooks#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pdehaan/octokit-webhooks.git"
   },
-  "keywords": [],
-  "author": "Peter deHaan <peter@deseloper.com> (https://about.me/peterdehaan)",
-  "license": "MPL-2.0",
-  "bugs": {
-    "url": "https://github.com/pdehaan/octokit-webhooks/issues"
-  },
-  "homepage": "https://github.com/pdehaan/octokit-webhooks#readme",
-  "dependencies": {
-    "@octokit/webhooks": "^7.4.0",
-    "dotenv": "^8.2.0"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
