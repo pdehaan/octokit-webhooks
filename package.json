@@ -7,7 +7,7 @@
     "url": "https://github.com/pdehaan/octokit-webhooks/issues"
   },
   "dependencies": {
-    "@octokit/webhooks": "^7.4.0",
+    "@octokit/webhooks": "^9.26.3",
     "dotenv": "^8.2.0"
   },
   "homepage": "https://github.com/pdehaan/octokit-webhooks#readme",
